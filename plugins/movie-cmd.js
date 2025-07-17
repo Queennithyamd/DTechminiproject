@@ -93,7 +93,7 @@ cmd({
         }
 
         const movieInfo = `
-*🎬 DEW-MD 🎬*
+*🎬 D-TEC MINI BOT 🎬*
 
 *ᴛɪᴛʟᴇ:* ${data.Title}
 *ʏᴇᴀʀ:* ${data.Year}
