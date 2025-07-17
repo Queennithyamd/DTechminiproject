@@ -17,7 +17,7 @@ let baseUrl;
 })();
 
 
-const yourName = "*© DEW-MD BY HANSA DEWMINA*";
+const yourName = "*D-TEC MINI BOT*";
 
 //twitter dl (x)
 cmd({
