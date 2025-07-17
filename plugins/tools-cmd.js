@@ -116,7 +116,7 @@ cmd(
         from,
         {
           image: { url: screenshotUrl },
-          caption: `*DEW-MD-WEB-SS*\n\n*${bot.COPYRIGHT}*`,
+          caption: `*D-TEC MINI BOT-WEB-SS*\n\n*${bot.COPYRIGHT}*`,
         },
         { quoted: mek }
       );
@@ -232,7 +232,7 @@ cmd(
   async ( conn, m, { from, q, reply, } ) => {
     try {
       if (!q) return reply("Please provide text to generate QR code.");
-      await reply("> *DEW-MD Generating QR code...🔄*");
+      await reply("> *D-TEC MINI BOT Generating QR code...🔄*");
       const apiUrl = `${api.QR_API}${encodeURIComponent(q)}&size=200x200`;
       const response = await axios.get(apiUrl, { responseType: "arraybuffer" });
       const buffer = Buffer.from(response.data, "binary");
