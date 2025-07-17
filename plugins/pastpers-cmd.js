@@ -11,9 +11,9 @@ cmd({
 async (conn, mek, m, { from, pushname, reply }) => {
     try {
     let desc = `
-*𝐃𝐄𝐖-𝐌𝐃-𝐏𝐀𝐒𝐓 𝐏𝐄𝐏𝐄𝐑𝐒 𝐌𝐄𝐍𝐔*
+*D-TEC MINI BOT PASTPAPERS*
 
-🪀 *Hellow ${pushname}*
+ *Hellow ${pushname}*
 
 *╭─「 ᴘᴇᴀᴘᴇʀ ᴅᴇᴀᴛᴀɪʟꜱ 」*
 > ඔබට අවශ්‍ය විශයය තෝරන්න..!😇
@@ -96,7 +96,7 @@ cmd({
 },
 async (conn, mek, m, { from, pushname, reply }) => {
     try {
-    let desc = `𝐃𝐄𝐖-𝐌𝐃-𝐏𝐀𝐒𝐓 𝐏𝐄𝐏𝐄𝐑𝐒 𝐌𝐄𝐍𝐔 
+    let desc = `D-TEC MINI BOT 
 
 ╭─「 ᴘᴇᴀᴘᴇʀ ᴅᴇᴀᴛᴀɪʟꜱ 」
 > වර්ෂය තෝරන්න..!😎
@@ -178,7 +178,7 @@ cmd({
 },
 async (conn, mek, m, { from, pushname, reply }) => {
     try {
-    let desc = `𝐃𝐄𝐖-𝐌𝐃-𝐏𝐀𝐒𝐓 𝐏𝐄𝐏𝐄𝐑𝐒 𝐌𝐄𝐍𝐔 
+    let desc = `D-TEC MINI BOT PASTPAPER MENU 
 
 ╭─「 ᴘᴇᴀᴘᴇʀ ᴅᴇᴀᴛᴀɪʟꜱ 」
 > වර්ෂය තෝරන්න..!😎
@@ -262,7 +262,7 @@ cmd({
 },
 async (conn, mek, m, { from, pushname, reply }) => {
     try {
-    let desc = `𝐃𝐄𝐖-𝐌𝐃-𝐏𝐀𝐒𝐓 𝐏𝐄𝐏𝐄𝐑𝐒 𝐌𝐄𝐍𝐔 
+    let desc = `D-TEC MINI BOT PASTPAPER MENU 
 
 ╭─「 ᴘᴇᴀᴘᴇʀ ᴅᴇᴀᴛᴀɪʟꜱ 」
 > වර්ෂය තෝරන්න..!😎
@@ -344,7 +344,7 @@ cmd({
 },
 async (conn, mek, m, { from, pushname, reply }) => {
     try {
-    let desc = `𝐃𝐄𝐖-𝐌𝐃-𝐏𝐀𝐒𝐓 𝐏𝐄𝐏𝐄𝐑𝐒 𝐌𝐄𝐍𝐔 
+    let desc = `D-TEC MINI BOT PASTPAPER MENU  
 
 ╭─「 ᴘᴇᴀᴘᴇʀ ᴅᴇᴀᴛᴀɪʟꜱ 」
 > වර්ෂය තෝරන්න..!😎
@@ -426,7 +426,7 @@ cmd({
 },
 async (conn, mek, m, { from, pushname, reply }) => {
     try {
-    let desc = `𝐃𝐄𝐖-𝐌𝐃-𝐏𝐀𝐒𝐓 𝐏𝐄𝐏𝐄𝐑𝐒 𝐌𝐄𝐍𝐔 
+    let desc = `D-TEC MINI BOT PASTPAPER MENU  
 
 ╭─「 ᴘᴇᴀᴘᴇʀ ᴅᴇᴀᴛᴀɪʟꜱ 」
 > වර්ෂය තෝරන්න..!😎
@@ -508,7 +508,7 @@ cmd({
 },
 async (conn, mek, m, { from, pushname, reply }) => {
     try {
-    let desc = `𝐃𝐄𝐖-𝐌𝐃-𝐏𝐀𝐒𝐓 𝐏𝐄𝐏𝐄𝐑𝐒 𝐌𝐄𝐍𝐔 
+    let desc = `D-TEC MINI BOT PASTPAPER MENU 
 
 ╭─「 ᴘᴇᴀᴘᴇʀ ᴅᴇᴀᴛᴀɪʟꜱ 」
 > වර්ෂය තෝරන්න..!😎
@@ -594,7 +594,7 @@ cmd({
 },
 async (conn, mek, m, { from, pushname, reply }) => {
     try {
-    let desc = `𝐃𝐄𝐖-𝐌𝐃-𝐏𝐀𝐒𝐓 𝐏𝐄𝐏𝐄𝐑𝐒 𝐌𝐄𝐍𝐔 
+    let desc = `D-TEC MINI BOT PASTPAPER MENU  
 
 ╭─「 ᴘᴇᴀᴘᴇʀ ᴅᴇᴀᴛᴀɪʟꜱ 」
 > වර්ෂය තෝරන්න..!😎
@@ -676,7 +676,7 @@ cmd({
 },
 async (conn, mek, m, { from, pushname, reply }) => {
     try {
-    let desc = `𝐃𝐄𝐖-𝐌𝐃-𝐏𝐀𝐒𝐓 𝐏𝐄𝐏𝐄𝐑𝐒 𝐌𝐄𝐍𝐔 
+    let desc = `D-TEC MINI BOT PASTPAPER MENU 
 
 ╭─「 ᴘᴇᴀᴘᴇʀ ᴅᴇᴀᴛᴀɪʟꜱ 」
 > වර්ෂය තෝරන්න..!😎
@@ -758,7 +758,7 @@ cmd({
 },
 async (conn, mek, m, { from, pushname, reply }) => {
     try {
-    let desc = `𝐃𝐄𝐖-𝐌𝐃-𝐏𝐀𝐒𝐓 𝐏𝐄𝐏𝐄𝐑𝐒 𝐌𝐄𝐍𝐔 
+    let desc = `D-TEC MINI BOT PASTPAPER MENU  
 
 ╭─「 ᴘᴇᴀᴘᴇʀ ᴅᴇᴀᴛᴀɪʟꜱ 」
 > වර්ෂය තෝරන්න..!😎
