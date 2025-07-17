@@ -21,7 +21,7 @@ let madeMenu = `❁ ════ ❃•⇆•❃ ════ ❁
 
 *I AM ${bot.BOT_NAME} WHATSAPP BOT*
 
-*CREATED BY DEW CODERS*
+*CREATED BY YASAS DILEEPA*
 
 *THANK YOU FOR USING BOT.😊*
 
@@ -78,7 +78,7 @@ let aliveText =`👋 *HI*, *${pushname}* *I Am Alive Now*
 🔢 *Reply below number*
   
 1 │❯❯◦ COMMANDS MENU
-2 │❯❯◦ DEW-MD SPEED
+2 │❯❯◦ BOT SPEED
   
 *${bot.COPYRIGHT}*`;
 
@@ -212,7 +212,7 @@ menu[commands[i].category] += `*│*❯❯◦ ${commands[i].pattern}\n`;
  }
 }
 let madeMenu = `🤩 *HELLOW* *${pushname}*
-> 🪀 WELLCOME TO DEW-MD 🪀
+> 🪀 WELLCOME TO D-TEC MINI BOT 🪀
 
 ╭──────────────────━┈⊷
 │◦ ✗🤖*\`Bot Name\`* : *${bot.BOT_NAME}*
@@ -284,7 +284,7 @@ async (conn, mek, m, { from, pushname, reply , setting }) => {
     try {
       let desc = `
 🤩 *HELLOW* *${pushname}*
-> 🪀 WELLCOME TO DEW-MD 🪀
+> 🪀 WELLCOME TO D-TEC MINI BOT 🪀
 
 ╭──────────────────━┈⊷
 │◦ ✗🤖*\`Bot Name\`* : *${bot.BOT_NAME}*
@@ -759,9 +759,9 @@ cmd({
 async (conn, mek, m, { from }) => {
     try {
         // Owner's contact info
-        const ownerNumber = '+94701515609'; // Replace this with the actual owner number
-        const ownerName = 'Hansa Dewmina'; // Replace this with the owner's name
-        const organization = 'DEW CODERS'; // Optional: replace with the owner's organization
+        const ownerNumber = '+94785316830'; // Replace this with the actual owner number
+        const ownerName = 'Yasas Dileepa'; // Replace this with the owner's name
+        const organization = 'D-TEC'; // Optional: replace with the owner's organization
 
         // Create a vCard (contact card) for the owner
         const vcard = 'BEGIN:VCARD\n' +
@@ -783,7 +783,7 @@ async (conn, mek, m, { from }) => {
         await conn.sendMessage(from, {
             text: `This is the owner's contact ${ownerName}`,
             contextInfo: {
-                mentionedJid: [ownerNumber.replace('+94701515609', '') + '+94701515609@s.whatsapp.net'], // Mention the owner
+                mentionedJid: [ownerNumber.replace('+94785316830', '') + '+94785316830@s.whatsapp.net'], // Mention the owner
                 quotedMessageId: sentVCard.key.id // Reference the vCard message
             }
         }, { quoted: mek });
@@ -954,7 +954,7 @@ let dec = `> DEW-MD REPO INFO 🪀
 ╭⦁⦂⦁*━┉━┉━┉━┉━┉━┉━⦁⦂⦁
 ┃ 𝙾𝚆𝙽𝙴𝚁 𝙽𝚄𝙼𝙱𝙴𝚁: ${bot.OWNER_NUMBER}
 ┃ 
-┃ DEW-MD REPO: ${bot.REPO_LINK} 
+┃ DTEC REPOTSRY: ${bot.REPO_LINK} 
 ┃
 ┃ BOT UPDATES: ${bot.WA_CHANNEL}
 ╰⦁⦂⦁*━┉━┉━┉━┉━┉━┉━⦁⦂⦁
@@ -1151,7 +1151,7 @@ let status = `
 ┃
 ┃⚙ *Platform :-* ${os.hostname()}
 ┃
-┃ 👨‍💻  *Owners :-* Hansa Dewmina
+┃ 👨‍💻  *Owners :-* YASAS DILEEPA
 ┃
 ┃ 🧬 *Version :-* ${bot.VERSION}
 ┃
