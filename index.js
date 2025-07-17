@@ -111,7 +111,7 @@ async function updateCommentsJsonOnGitHub(newContent) {
       path: `/repos/${GITHUB_REPO_OWNER}/${GITHUB_REPO_NAME}/contents/${GITHUB_COMMENTS_PATH}`,
       method: "GET",
       headers: {
-        "User-Agent": "DEW-MD-Server",
+        "User-Agent": "Dileepa-MD-Server",
         Authorization: `token ${GITHUB_TOKEN}`,
         Accept: "application/vnd.github.v3+json",
       },
