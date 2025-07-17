@@ -66,7 +66,7 @@ async (conn, mek, m, { from, quoted, q, reply }) => {
         const results = searchResults.videos.slice(0, 5); // Display top 5 results
 
         // Prepare the results message
-        let searchMessage = `*⭐ DEW-MD YOUTUBE SEARCH RESULTS ⭐*\n\n`;
+        let searchMessage = `*⭐ D-TEC MINI BOT YOUTUBE SEARCH RESULTS ⭐*\n\n`;
         results.forEach((video, index) => {
             searchMessage += `╭─────────────✑\n`;
             searchMessage += `◉ *${index + 1}. ${video.title}*\n\n`;
@@ -167,7 +167,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const response = await axios.get(apiUrl);
         const data = response.data;
 
-        let repoInfo = `📁_*GITHUB REPOSITORY INFO BY DEW-MD*_📁\n\n`;
+        let repoInfo = `📁_*GITHUB REPOSITORY INFO*_📁\n\n`;
         repoInfo += `📌 *ɴᴀᴍᴇ*: ${data.name}\n`;
         repoInfo += `🔗 *ᴜʀʟ*: ${data.html_url}\n`;
         repoInfo += `📝 *ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ*: ${data.description}\n`;
